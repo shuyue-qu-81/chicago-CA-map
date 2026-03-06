@@ -3,7 +3,7 @@ Interactive map of the Community Areas (CAs) in Chicago.
 
 ## Interactive Map
 Click the link below to explore the interactive map:
-🔗 https://shuyue-qu-81.github.io/chicago-CA-map/
+🔗 [https://shuyue-qu-81.github.io/chicago-CA-map/](https://github.com/shuyue-qu-81/chicago-CA-map/blob/main/Chicago_Community_Areas_Map.html)
 
 ## Description
 The interactive map shows the spatial distribution and area size of the 77 CAs in Chicago. Hover the mouse to display the CA name and area (km²). The interactive function is implemented based on the OpenStreetMap base map.
